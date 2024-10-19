@@ -1,16 +1,21 @@
-Shamir's Secret Sharing Polynomial Solver
-How to Run
-Clone the Repository:
+# Shamir's Secret Sharing Polynomial Solver
 
-bash
-Copy code
-git clone https://github.com/your-username/shamir-secret-sharing.git
-Navigate to the Project Directory:
+## How to Run
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/AbhayGoyal001/shamir-secret-sharing.git
+2. **Run the file**
+
+    ```bash
+    node Shamir's_Secret_Algo
 
 
-bash
-Copy code
-node Shamir's_Secret_Algo.js
-Output:
 
-The program will display the secret (constant term c) for both test cases directly in the console
+
+
+
+
+
+   
