@@ -9,7 +9,7 @@
 2. **Run the file**
 
     ```bash
-    node Shamir's_Secret_Algo
+    node Shamir's_Secret_Algo.js
 
 
 
